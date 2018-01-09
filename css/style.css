@@ -1,3 +1,15 @@
 body {
-	background-color: grey;
+	color:#FFF;
+}
+
+a {
+	color:#FFF;
+}
+.cool {
+	background-color: #3F5EFB;
+	transition: background-color 1s;
+}
+
+.cool.red {
+	background-color: #FC466B;
 }
